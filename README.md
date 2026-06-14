@@ -4,8 +4,8 @@
 
 ### _The Ultimate Collection of AI Agents & RAG Applications_
 
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpansharma/)
-[![Follow on X](https://img.shields.io/badge/Follow%20on%20𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Darpan_Sharma_)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpan-sharma-60867222b/)
+[![Follow on Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darpan.decoded/)
 
 <br/>
 
