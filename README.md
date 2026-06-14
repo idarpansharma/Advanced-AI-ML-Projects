@@ -290,3 +290,6 @@ _Deep-dive tutorials on the major agent frameworks._
 - Memory; callbacks; evaluation
 - Multi‑agent patterns; agent handoffs
 - Swarm orchestration; routing logic
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpan-sharma-60867222b/)
+[![Follow on Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darpan.decoded/)
