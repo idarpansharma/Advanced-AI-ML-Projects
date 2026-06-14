@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Insurance Claim Live Agent Team</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=dark-editorial-1" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <main class="workspace">
+        <header class="topbar">
+          <div class="title-group">
+            <h1>Insurance Claim Live Agent Team</h1>
+            <span id="modelLabel" class="live-model"><span class="dot ok"></span> Connecting to Gemini API</span>
+          </div>
+        </header>
+
+        <section class="dashboard" aria-label="Live intake cockpit">
+          <section class="panel call-panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">Live call</p>
+                <h2>Voice and transcript</h2>
+              </div>
+              <span id="callStatus" class="status-pill active">Active - listening</span>
+            </div>
+
+            <div class="voice-stage">
+              <div class="wave left" aria-hidden="true">
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+              </div>
+              <button id="micButton" class="mic-button" type="button" aria-label="Start voice recording">
+                <span class="mic-icon" aria-hidden="true"></span>
+              </button>
+              <div class="wave right" aria-hidden="true">
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+              </div>
+            </div>
+
+            <div class="call-actions">
+              <button id="newIntakeButton" class="primary-action" type="button">New live intake</button>
+              <button id="resetButton" class="secondary-action" type="button">Reset</button>
+            </div>
+
+            <div class="transcript-header">
+              <h3>Live transcript</h3>
+              <span id="streamingLabel">Streaming</span>
+            </div>
+            <div id="transcript" class="transcript" aria-live="polite"></div>
+
+            <form id="textForm" class="text-entry">
+              <input
+                id="textInput"
+                type="text"
+                autocomplete="off"
+                placeholder="Type a claimant response..."
+                aria-label="Type a claimant response"
+              />
+              <button type="submit" aria-label="Send response">Send</button>
+            </form>
+          </section>
+
+          <section class="panel claim-panel">
+            <div class="panel-header">
+              <div>
+                <p class="panel-kicker">Claim packet live</p>
+                <h2>Claim state</h2>
+              </div>
+              <span id="autosave" class="status-line"><span class="dot ok"></span> Auto-saving</span>
+            </div>
+            <div id="claimFields" class="claim-sections"></div>
+          </section>
+
+          <section class="right-rail">
+            <section class="panel timeline-panel">
+              <div class="panel-header compact">
+                <div>
+                  <p class="panel-kicker">Operator guidance</p>
+                  <h2>Next best action</h2>
+                </div>
+                <span class="status-line"><span class="dot neutral"></span> Live</span>
+              </div>
+              <div id="timeline" class="operator-workbench" aria-live="polite"></div>
+            </section>
+
+            <section class="panel handoff-panel">
+              <div class="panel-header compact">
+                <div>
+                  <p class="panel-kicker">Human handoff</p>
+                  <h2>Adjuster packet forming</h2>
+                </div>
+                <div id="packetProgress" class="progress-ring" aria-label="Packet completion">32%</div>
+              </div>
+              <dl id="handoff" class="handoff-list"></dl>
+              <button id="openPacket" class="packet-button" type="button">Open packet preview</button>
+            </section>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="packetDialog" class="packet-dialog">
+      <div class="dialog-header">
+        <h2>Initial Adjuster Handoff</h2>
+        <button id="closePacket" type="button" aria-label="Close packet">Close</button>
+      </div>
+      <pre id="packetMarkdown"></pre>
+    </dialog>
+
+    <script src="./app.js?v=gemini-live-clean-shell-1"></script>
+  </body>
+</html>

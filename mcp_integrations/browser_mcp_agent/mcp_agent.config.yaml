@@ -1,0 +1,31 @@
+execution_engine: asyncio
+logger:
+  transports: [console, file]
+  level: debug
+  progress_display: true
+  path_settings:
+    path_pattern: "logs/mcp-agent-{unique_id}.jsonl"
+    unique_id: "timestamp" # Options: "timestamp" or "session_id"
+    timestamp_format: "%Y%m%d_%H%M%S"
+
+mcp:
+  servers:
+    playwright:
+      command: "npx"
+      args: ["@playwright/mcp@latest"]
+
+
+openai:
+  # Secrets (API keys, etc.) are stored in an mcp_agent.secrets.yaml file which can be gitignored
+  default_model: "gpt-4o-mini"
+
+# To run against a local Ollama (or any OpenAI-compatible) server, override
+# the `openai` block above with the commented example below and put a dummy
+# api_key (e.g. "ollama") in mcp_agent.secrets.yaml. Ollama exposes an
+# OpenAI-compatible endpoint at /v1, so no framework changes are needed —
+# this was confirmed by the mcp-agent maintainer in issue #329.
+#
+# openai:
+#   base_url: "http://localhost:11434/v1"
+#   default_model: "llama3.2"
+
