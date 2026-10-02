@@ -20,14 +20,14 @@ with st.sidebar:
     st.markdown("### Example Commands")
     
     st.markdown("**Navigation**")
-    st.markdown("- Go to github.com/DarpanSharma/awesome-llm-apps")
+    st.markdown("- Go to github.com/idarpansharma/Advanced-AI-ML-Projects")
     
     st.markdown("**Interactions**")
     st.markdown("- click on mcp_integrations")
     st.markdown("- Scroll down to view more content")
     
     st.markdown("**Multi-step Tasks**")
-    st.markdown("- Navigate to github.com/DarpanSharma/awesome-llm-apps, scroll down, and report details")
+    st.markdown("- Navigate to github.com/idarpansharma/Advanced-AI-ML-Projects, scroll down, and report details")
     st.markdown("- Scroll down and summarize the github readme")
     
     st.markdown("---")

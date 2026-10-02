@@ -1,7 +1,7 @@
 """
 RAG Failure Diagnostics Clinic
 
-Framework-agnostic example for awesome-llm-apps.
+Framework-agnostic example for Advanced-AI-ML-Projects.
 Diagnose LLM + RAG bugs into reusable failure patterns (P01–P12).
 """
 
