@@ -33,24 +33,12 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 
 **Advanced AI & ML Projects is a cookbook of ready-to-run templates** - starter code you can fork, customize, and ship as a production LLM app. Every template here is self-contained with full source code, not collected from elsewhere.
 
-<table>
-<tr>
-<td>
-
-- 🛠️ **Hand-built, not curated** - every template is original work, tested end-to-end.
-- 🧪 **Runs in 3 commands** - no broken `requirements.txt`, no "figure it out yourself" scaffolding.
-- 🧠 **Modern AI stack** - AI Agents, Multi-agent Teams, MCP Agents, Voice AI, RAG.
-
-</td>
-<td>
-
-- 🌐 **Provider-agnostic** - switch between Claude, Gemini, GPT, Llama, Qwen, xAI easily.
-- 📚 **Step-by-step tutorials** - every featured template comes with a walkthrough.
-- 💸 **Apache-2.0** - fork it, ship it, sell it. No paywall, no signup, no telemetry.
-
-</td>
-</tr>
-</table>
+> - 🛠️ **Hand-built, not curated** - every template is original work, tested end-to-end.
+> - 🧪 **Runs in 3 commands** - no broken `requirements.txt`, no "figure it out yourself" scaffolding.
+> - 🧠 **Modern AI stack** - AI Agents, Multi-agent Teams, MCP Agents, Voice AI, RAG.
+> - 🌐 **Provider-agnostic** - switch between Claude, Gemini, GPT, Llama, Qwen, xAI easily.
+> - 📚 **Step-by-step tutorials** - every featured template comes with a walkthrough.
+> - 💸 **Apache-2.0** - fork it, ship it, sell it. No paywall, no signup, no telemetry.
 
 > ⭐ **If this saves you time, [star the repo](https://github.com/DarpanSharma/awesome-llm-apps/stargazers) - that's how the next developer discovers it.**
 
@@ -88,41 +76,24 @@ streamlit run travel_agent.py
 
 ## 📑 Table of Contents
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-  
-**🚀 Core Agents**
-<br/>
+### 🚀 Core Agents
 - [🌱 Starter AI Agents](#-starter-ai-agents)
 - [🗣️ Voice AI Agents](#️-voice-ai-agents)
 - [🖼️ Generative UI & Frontends](#️-generative-ui-and-agentic-frontends)
 - [💬 Chat with X Tutorials](#-chat-with-x-tutorials)
 - [🧑‍🏫 Agent Framework Crash Course](#-ai-agent-framework-crash-course)
 
-</td>
-<td width="33%" valign="top">
-
-**🧠 Advanced Architectures**
-<br/>
+### 🧠 Advanced Architectures
 - [🚀 Advanced AI Agents](#-advanced-ai-agents)
 - [🤝 Multi-agent Teams](#-multi-agent-teams)
 - [🎮 Game-Playing Agents](#-autonomous-game-playing-agents)
 - [💾 LLM Apps with Memory](#-llm-apps-with-memory-tutorials)
 
-</td>
-<td width="33%" valign="top">
-
-**🛠️ Infrastructure & Skills**
-<br/>
+### 🛠️ Infrastructure & Skills
 - [♾️ MCP AI Agents](#-mcp-ai-agents)
 - [📀 RAG Tutorials](#-rag-retrieval-augmented-generation)
 - [🧩 Awesome Agent Skills](#-awesome-agent-skills)
 - [🎯 Optimization & Fine-tuning](#-llm-optimization-tools)
-
-</td>
-</tr>
-</table>
 
 ---
 
