@@ -40,7 +40,7 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 > - 📚 **Step-by-step tutorials** - every featured template comes with a walkthrough.
 > - 💸 **Apache-2.0** - fork it, ship it, sell it. No paywall, no signup, no telemetry.
 
-> ⭐ **If this saves you time, [star the repo](https://github.com/DarpanSharma/awesome-llm-apps/stargazers) - that's how the next developer discovers it.**
+> ⭐ **If this saves you time, [star the repo](https://github.com/idarpansharma/Advanced-AI-ML-Projects/stargazers) - that's how the next developer discovers it.**
 
 ---
 
