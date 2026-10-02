@@ -30,7 +30,7 @@ An Agno agentic system that provides expert software architecture analysis and r
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd enterprise_agents/single_agent_apps/ai_system_architect_r1
    
    # Install dependencies

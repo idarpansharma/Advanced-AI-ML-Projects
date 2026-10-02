@@ -26,8 +26,8 @@ Follow these steps to set up and run the application:
 
 1.  **Clone and Navigate to Directory** :
     ```bash
-    git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-    cd awesome-llm-apps/rag_implementations/vision_rag
+    git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+    cd Advanced-AI-ML-Projects/rag_implementations/vision_rag
     ```
 
 2.  **Install Dependencies**:

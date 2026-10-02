@@ -6,7 +6,7 @@ description: |
   managing dependencies, or when user mentions project planning, roadmap, work breakdown, or task estimation.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

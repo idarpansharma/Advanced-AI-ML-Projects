@@ -38,7 +38,7 @@ API keys required:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd foundation_agents/ai_meme_generator_agent_browseruse
    ```
 2. **Install the dependencies**:

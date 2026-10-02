@@ -39,7 +39,7 @@ Additional goodies:
 1. **Clone** the repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd enterprise_agents/multi_agent_apps/product_launch_intelligence_agent
 ```
 

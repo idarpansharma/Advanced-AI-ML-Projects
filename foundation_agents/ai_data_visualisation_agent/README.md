@@ -32,7 +32,7 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd foundation_agents/ai_data_visualisation_agent
    ```
 2. **Install the dependencies**

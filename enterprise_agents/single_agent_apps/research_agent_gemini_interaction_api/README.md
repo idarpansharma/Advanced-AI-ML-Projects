@@ -57,7 +57,7 @@ User Goal
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd enterprise_agents/single_agent_apps/research_agent_gemini_interaction_api
 ```
 
@@ -103,4 +103,4 @@ streamlit run research_planner_executor_agent.py
 
 ## 📄 License
 
-Part of the [Awesome LLM Apps](https://github.com/DarpanSharma/awesome-llm-apps) collection.
+Part of the [Awesome LLM Apps](https://github.com/idarpansharma/Advanced-AI-ML-Projects) collection.

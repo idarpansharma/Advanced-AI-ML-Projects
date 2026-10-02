@@ -16,8 +16,8 @@ The AI Startup Trend Analysis Agent is tool for budding entrepreneurs that gener
 ### How to Get Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git 
-   cd awesome-llm-apps/foundation_agents/ai_startup_trend_analysis_agent
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git 
+   cd Advanced-AI-ML-Projects/foundation_agents/ai_startup_trend_analysis_agent
    ```
 
 2. **Create and activate a virtual environment**:

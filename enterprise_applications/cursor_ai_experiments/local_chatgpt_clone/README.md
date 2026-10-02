@@ -11,8 +11,8 @@ This project demonstrates how to build a ChatGPT clone using the Llama-3 model r
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/advanced_tools_frameworks/local_chatgpt_clone
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/advanced_tools_frameworks/local_chatgpt_clone
 ```
 2. Install the required dependencies:
 

@@ -6,7 +6,7 @@ description: |
   mentions data visualization, charts, graphs, or needs help presenting data visually.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

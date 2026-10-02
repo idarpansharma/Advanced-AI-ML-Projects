@@ -3,7 +3,7 @@ name: content-writer
 description: Writes marketing copy for landing pages, emails, and social media posts. Use when creating promotional content, sales copy, or brand messaging.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0"
 ---
 

@@ -11,7 +11,7 @@ The AI Reasoning Agent leverages advanced AI models to provide insightful reason
 ### How to Get Started
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+    git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
     cd foundation_agents/ai_reasoning_agent
     ```
 

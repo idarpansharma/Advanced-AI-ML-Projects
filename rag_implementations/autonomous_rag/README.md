@@ -18,8 +18,8 @@ Features
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/rag_implementations/autonomous_rag
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/rag_implementations/autonomous_rag
 ```
 
 2. Install the required dependencies:

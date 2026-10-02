@@ -55,8 +55,8 @@ A sophisticated Streamlit-based AI travel planning application that creates extr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-   cd awesome-llm-apps/mcp_integrations/ai_travel_planner_mcp_agent_team
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+   cd Advanced-AI-ML-Projects/mcp_integrations/ai_travel_planner_mcp_agent_team
    ```
 
 2. Install the required Python packages:

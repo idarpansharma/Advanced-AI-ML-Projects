@@ -7,7 +7,7 @@ description: |
   with Python data structures and algorithms.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

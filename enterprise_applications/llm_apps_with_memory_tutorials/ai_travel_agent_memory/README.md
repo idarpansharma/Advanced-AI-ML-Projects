@@ -12,8 +12,8 @@ This Streamlit app implements an AI-powered travel assistant that remembers user
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/llm_apps_with_memory_tutorials/ai_travel_agent_memory
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/llm_apps_with_memory_tutorials/ai_travel_agent_memory
 ```
 
 2. Install the required dependencies:

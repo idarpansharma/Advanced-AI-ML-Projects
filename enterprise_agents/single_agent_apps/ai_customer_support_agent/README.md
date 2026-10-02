@@ -16,7 +16,7 @@ This Streamlit app implements an AI-powered customer support agent for synthetic
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd enterprise_agents/single_agent_apps/ai_customer_support_agent
 ```
 

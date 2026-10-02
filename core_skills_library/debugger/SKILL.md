@@ -6,7 +6,7 @@ description: |
   fixing broken code, or when user mentions debugging, error, bug, crash, or "not working".
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

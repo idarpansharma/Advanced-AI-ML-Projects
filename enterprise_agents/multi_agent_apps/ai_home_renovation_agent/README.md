@@ -37,8 +37,8 @@ The system uses a **Coordinator/Dispatcher pattern** with three specialized agen
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-   cd awesome-llm-apps/enterprise_agents/multi_agent_apps/ai_home_renovation_agent
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+   cd Advanced-AI-ML-Projects/enterprise_agents/multi_agent_apps/ai_home_renovation_agent
    ```
 
 2. **Install dependencies**

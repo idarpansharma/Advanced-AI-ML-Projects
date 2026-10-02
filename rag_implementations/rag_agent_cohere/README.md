@@ -48,7 +48,7 @@ A RAG Agentic system built with Cohere's new model Command-r7b-12-2024, Qdrant f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd rag_implementations/rag_agent_cohere
 ```
 

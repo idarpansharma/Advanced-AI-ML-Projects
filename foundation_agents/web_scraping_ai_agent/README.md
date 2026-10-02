@@ -29,8 +29,8 @@ Use the open-source ScrapeGraphAI library that runs on your local machine.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/foundation_agents/web_scraping_ai_agent
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/foundation_agents/web_scraping_ai_agent
 ```
 
 2. **Install dependencies**

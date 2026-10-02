@@ -37,7 +37,7 @@ This is an AI-powered application designed to help users emotionally recover fro
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects
    cd foundation_agents/ai_breakup_recovery_agent
    ```
 

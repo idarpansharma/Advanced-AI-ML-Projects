@@ -6,7 +6,7 @@ description: |
   choosing between alternatives, analyzing pros/cons, or making structured decisions.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

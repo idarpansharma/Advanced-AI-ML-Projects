@@ -6,7 +6,7 @@ description: |
   trade-offs, or when user mentions strategy, business planning, competitive analysis, or long-term planning.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

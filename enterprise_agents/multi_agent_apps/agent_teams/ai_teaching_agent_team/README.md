@@ -37,7 +37,7 @@ A Streamlit application that brings together a team of specialized AI teaching a
 1. Clone the repository
   ```bash
    # Clone the repository
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd enterprise_agents/multi_agent_apps/agent_teams/ai_teaching_agent_team
 
    # Install dependencies

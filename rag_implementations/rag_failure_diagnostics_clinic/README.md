@@ -102,7 +102,7 @@ into a lightweight helper for incident triage.
 
 ## Setup
 
-From the root of the `awesome-llm-apps` repo:
+From the root of the `Advanced-AI-ML-Projects` repo:
 
 ```bash
 cd rag_implementations/rag_failure_diagnostics_clinic

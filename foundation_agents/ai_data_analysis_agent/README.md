@@ -33,8 +33,8 @@ An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-   cd awesome-llm-apps/foundation_agents/ai_data_analysis_agent
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+   cd Advanced-AI-ML-Projects/foundation_agents/ai_data_analysis_agent
 
    # Install dependencies
    pip install -r requirements.txt

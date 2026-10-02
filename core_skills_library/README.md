@@ -116,7 +116,7 @@ description: |
   Include triggers like "use when debugging" or "when user mentions code review".
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

@@ -54,7 +54,7 @@ You'll need the following API keys:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+    git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
     cd rag_implementations/agentic_rag_with_reasoning
     ```
 

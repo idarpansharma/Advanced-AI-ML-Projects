@@ -13,8 +13,8 @@ Build and deploy a production-ready Retrieval-Augmented Generation (RAG) service
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/rag_implementations/rag-as-a-service
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/rag_implementations/rag-as-a-service
 ```
 
 2. Install the required dependencies:

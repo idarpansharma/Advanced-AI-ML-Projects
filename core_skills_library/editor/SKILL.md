@@ -6,7 +6,7 @@ description: |
   or when user asks to "edit", "proofread", "improve", "revise", or mentions grammar and readability.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

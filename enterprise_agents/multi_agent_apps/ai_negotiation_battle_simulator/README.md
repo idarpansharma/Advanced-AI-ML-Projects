@@ -59,7 +59,7 @@ Watch two AI agents battle it out in an epic used car negotiation! Built with **
 ### 1. Clone and Navigate
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd enterprise_agents/multi_agent_apps/ai_negotiation_battle_simulator
 ```
 

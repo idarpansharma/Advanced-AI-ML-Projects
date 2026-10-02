@@ -38,7 +38,7 @@ User Query
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd mcp_integrations/multi_mcp_agent_forge
    ```
 

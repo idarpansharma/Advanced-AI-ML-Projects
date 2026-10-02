@@ -21,7 +21,7 @@ You will need API keys for each external service:
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 ```
 2. Create and activate a virtual environment (optional but recommended).
 

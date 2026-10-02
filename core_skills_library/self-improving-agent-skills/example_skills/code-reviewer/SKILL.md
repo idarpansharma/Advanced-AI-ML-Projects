@@ -3,7 +3,7 @@ name: code-reviewer
 description: Reviews code for security vulnerabilities, performance issues, and best practices. Use when reviewing code, performing security audits, checking for code quality, reviewing pull requests.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0"
 ---
 

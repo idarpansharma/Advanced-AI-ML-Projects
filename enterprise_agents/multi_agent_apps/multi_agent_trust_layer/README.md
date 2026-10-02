@@ -40,7 +40,7 @@ Learn how to build a trust layer for multi-agent systems that enables secure del
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd enterprise_agents/multi_agent_apps/multi_agent_trust_layer
    ```
 

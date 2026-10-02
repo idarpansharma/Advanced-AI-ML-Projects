@@ -6,7 +6,7 @@ description: |
   or when user mentions sprint planning, agile, scrum, story points, or sprint capacity.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

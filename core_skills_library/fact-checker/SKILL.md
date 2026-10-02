@@ -6,7 +6,7 @@ description: |
   or when user asks to "fact check", "verify", "is this true", or mentions claims that need validation.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.0.0"
 ---
 

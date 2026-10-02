@@ -6,7 +6,7 @@ description: |
   or when user mentions code review, PR review, security vulnerabilities, performance issues.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "2.0.0"
 ---
 

@@ -36,7 +36,7 @@ An intelligent meal planning agent built with Agno that helps you discover recip
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd enterprise_agents/single_agent_apps/ai_recipe_meal_planning_agent
 ```
 

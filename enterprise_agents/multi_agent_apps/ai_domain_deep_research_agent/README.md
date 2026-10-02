@@ -34,7 +34,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 
    ```bash
    # Clone the repository
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd enterprise_agents/single_agent_apps/ai_domain_deep_research_agent
 
    # Install dependencies
@@ -87,4 +87,4 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 
 ## License
 
-This project is part of the awesome-llm-apps collection and is available under the MIT License.
+This project is part of the Advanced-AI-ML-Projects collection and is available under the MIT License.

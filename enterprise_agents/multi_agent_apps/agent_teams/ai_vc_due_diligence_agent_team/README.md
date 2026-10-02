@@ -29,8 +29,8 @@ Given a startup name or URL, the pipeline automatically:
 
 ### 1. Clone & Navigate
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/enterprise_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/enterprise_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team
 ```
 
 ### 2. Set Environment

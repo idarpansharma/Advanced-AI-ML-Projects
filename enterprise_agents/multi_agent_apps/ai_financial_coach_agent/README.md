@@ -50,8 +50,8 @@ Follow the steps below to set up and run the application:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-   cd awesome-llm-apps/enterprise_agents/multi_agent_apps/ai_financial_coach_agent/
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+   cd Advanced-AI-ML-Projects/enterprise_agents/multi_agent_apps/ai_financial_coach_agent/
    ```
 
 3. **Install Dependencies**:

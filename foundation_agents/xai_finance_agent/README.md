@@ -14,14 +14,14 @@ This application creates a financial analysis agent powered by xAI's Grok model,
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/foundation_agents/xai_finance_agent
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/foundation_agents/xai_finance_agent
 ```
 
 2. Install the required dependencies:
 
 ```bash
-cd awesome-llm-apps/foundation_agents/xai_finance_agent
+cd Advanced-AI-ML-Projects/foundation_agents/xai_finance_agent
 pip install -r requirements.txt
 ```
 

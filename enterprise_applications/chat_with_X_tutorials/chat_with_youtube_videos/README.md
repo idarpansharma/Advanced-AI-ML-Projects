@@ -16,8 +16,8 @@ LLM app with RAG to chat with YouTube Videos with OpenAI's gpt-4o, mem0/embedcha
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
-cd awesome-llm-apps/chat_with_X_tutorials/chat_with_youtube_videos
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
+cd Advanced-AI-ML-Projects/chat_with_X_tutorials/chat_with_youtube_videos
 ```
 2. Install the required dependencies:
 

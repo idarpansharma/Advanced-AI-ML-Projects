@@ -18,13 +18,13 @@ This application implements a Retrieval-Augmented Generation (RAG) system using 
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 ```
 
 2. Install the required dependencies:
 
 ```bash
-cd awesome-llm-apps/rag_implementations/local_rag_agent
+cd Advanced-AI-ML-Projects/rag_implementations/local_rag_agent
 pip install -r requirements.txt
 ```
 

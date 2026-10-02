@@ -13,7 +13,7 @@ An agent that populates **live charts, metrics, and real-time data** into a Canv
 ## 🔧 Quickstart
 
 ```bash
-# from the awesome-llm-apps repo root
+# from the Advanced-AI-ML-Projects repo root
 cd generative_interfaces/ai-dashboard-canvas-agent
 
 # install JS deps + agent

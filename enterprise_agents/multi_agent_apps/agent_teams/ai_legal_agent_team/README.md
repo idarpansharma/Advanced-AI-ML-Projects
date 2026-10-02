@@ -28,7 +28,7 @@ A Streamlit application that simulates a full-service legal team using multiple 
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd enterprise_agents/multi_agent_apps/agent_teams/ai_legal_agent_team
    
    # Install dependencies

@@ -13,7 +13,7 @@ LLM app with RAG to chat with GitHub Repo in just 30 lines of Python Code. The a
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd enterprise_applications/chat_with_X_tutorials/chat_with_github
 ```
 2. Install the required dependencies:

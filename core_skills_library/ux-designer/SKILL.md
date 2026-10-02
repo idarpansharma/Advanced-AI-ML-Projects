@@ -8,7 +8,7 @@ description: |
   information architecture, or design systems.
 license: MIT
 metadata:
-  author: awesome-llm-apps
+  author: Advanced-AI-ML-Projects
   version: "1.1.0"
 ---
 

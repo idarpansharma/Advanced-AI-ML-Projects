@@ -35,7 +35,7 @@ A powerful business consultant powered by Google's Agent Development Kit that pr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd enterprise_agents/single_agent_apps
    ```
 

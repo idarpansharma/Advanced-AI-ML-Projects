@@ -14,7 +14,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system that implements a co
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+   git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
    cd rag_implementations/corrective_rag
    ```
 

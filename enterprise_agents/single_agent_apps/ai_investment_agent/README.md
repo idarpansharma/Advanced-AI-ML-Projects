@@ -16,7 +16,7 @@ This AI-powered investment agent is built with Agno's AgentOS framework that ana
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/DarpanSharma/awesome-llm-apps.git
+git clone https://github.com/idarpansharma/Advanced-AI-ML-Projects.git
 cd enterprise_agents/single_agent_apps/ai_investment_agent
 ```
 2. Install the required dependencies:
